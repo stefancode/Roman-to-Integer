@@ -1,6 +1,5 @@
 # Roman-to-Integer
-<<<<<<< HEAD
-=======
+
 Class that's converts Roman to Integer
 
 
@@ -46,4 +45,3 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
->>>>>>> 7ade064bde7b28971edc87d283044b1bd810cc73
